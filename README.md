@@ -8,4 +8,4 @@ To run this simulation, you need the following installed:
 * Stable-Baselines3
 * MATLAB (with Simulink and the MATLAB Engine API for Python installed)
 ## Note
-Ensure your MATLAB paths inside cross_layer_sim2.py are correctly pointing to the model and sim directories on your local machine before running.
+Ensure your MATLAB paths inside cross_layer_sim.py are correctly pointing to the model and sim directories on your local machine before running.
